@@ -1,0 +1,1 @@
+{"description":"The funniest error message a kitchen toaster shows its owner — a make.fun program/v1 entry.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"funniest-toaster-error-message","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
